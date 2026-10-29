@@ -12,8 +12,6 @@ import pytest
 #from os import getenv
 #import threading
 #import time
-#import requests
-#import requests
 #from selenium import webdriver
 #from app import app as flask_app
 #from flask import Flask, render_template, jsonify
